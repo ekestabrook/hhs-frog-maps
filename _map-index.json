@@ -1,0 +1,138 @@
+﻿[
+    {
+        "id":  "d87d1243-ecb9-4ee2-8212-bcbf3b2675f0",
+        "commonName":  "American Bullfrog",
+        "scientificName":  "Lithobates catesbeianus",
+        "group":  "Bullfrog",
+        "inMap":  "american-bullfrog-in.html",
+        "usMap":  "lithobates-catesbeianus-us.html"
+    },
+    {
+        "id":  "d12df87b-ad78-4fcf-bdaa-db9bb05c34a0",
+        "commonName":  "American Toad",
+        "scientificName":  "Anaxyrus americanus",
+        "group":  "Toads",
+        "inMap":  "american-toad-in.html",
+        "usMap":  "anaxyrus-americanus-us.html"
+    },
+    {
+        "id":  "5624279a-2eec-4cb9-a884-a09112bb61c7",
+        "commonName":  "Chorus Frog",
+        "scientificName":  "Pseudacris triseriata",
+        "group":  "Small Treefrogs",
+        "inMap":  "chorus-frog-in.html",
+        "usMap":  "pseudacris-triseriata-us.html"
+    },
+    {
+        "id":  "2be80269-23c0-4fd9-994d-2ef0099eadbc",
+        "commonName":  "Cope\u0027s Gray Treefrog",
+        "scientificName":  "Hyla chrysoscelis",
+        "group":  "Gray Treefrogs",
+        "inMap":  "cope-s-gray-treefrog-in.html",
+        "usMap":  "hyla-chrysoscelis-us.html"
+    },
+    {
+        "id":  "7295b3d4-8eff-476b-8022-e0a83e9c03c1",
+        "commonName":  "Crawfish Frog",
+        "scientificName":  "Lithobates areolatus",
+        "group":  "Woodland and Grassland Frogs",
+        "inMap":  "crawfish-frog-in.html",
+        "usMap":  "lithobates-areolatus-us.html"
+    },
+    {
+        "id":  "20a979ee-dafa-43ed-b9bc-0ae0b41c5374",
+        "commonName":  "Cricket Frog",
+        "scientificName":  "Acris crepitans",
+        "group":  "Small Treefrogs",
+        "inMap":  "cricket-frog-in.html",
+        "usMap":  "acris-crepitans-us.html"
+    },
+    {
+        "id":  "1b639f1f-c3fc-4e23-b439-60edb7edb54f",
+        "commonName":  "Eastern Spadefoot",
+        "scientificName":  "Scaphiopus holbrookii",
+        "group":  "Eastern Spadefoot",
+        "inMap":  "eastern-spadefoot-in.html",
+        "usMap":  "scaphiopus-holbrookii-us.html"
+    },
+    {
+        "id":  "67b7fbba-ed65-46dc-86c2-69b5572188ec",
+        "commonName":  "Fowler\u0027s Toad",
+        "scientificName":  "Anaxyrus fowleri",
+        "group":  "Toads",
+        "inMap":  "fowler-s-toad-in.html",
+        "usMap":  "anaxyrus-fowleri-us.html"
+    },
+    {
+        "id":  "6763667a-c398-4b6d-a2f8-ba9d29fae98b",
+        "commonName":  "Gray Treefrog",
+        "scientificName":  "Hyla versicolor",
+        "group":  "Gray Treefrogs",
+        "inMap":  "gray-treefrog-in.html",
+        "usMap":  "hyla-versicolor-us.html"
+    },
+    {
+        "id":  "a4c9715f-a166-45da-b5db-3b0419c65e4c",
+        "commonName":  "Green Frog",
+        "scientificName":  "Lithobates clamitans",
+        "group":  "Green Frog",
+        "inMap":  "green-frog-in.html",
+        "usMap":  "lithobates-clamitans-us.html"
+    },
+    {
+        "id":  "c875330d-1299-4bb4-8a9a-e4596fd72355",
+        "commonName":  "Green Treefrog",
+        "scientificName":  "Hyla cinerea",
+        "group":  "Gray Treefrogs",
+        "inMap":  "green-treefrog-in.html",
+        "usMap":  "hyla-cinerea-us.html"
+    },
+    {
+        "id":  "8fc203bf-cc34-42e6-82fb-615cbd0418dc",
+        "commonName":  "Northern Leopard Frog",
+        "scientificName":  "Lithobates pipiens",
+        "group":  "Leopard and Pickerel Frogs",
+        "inMap":  "northern-leopard-frog-in.html",
+        "usMap":  "lithobates-pipiens-us.html"
+    },
+    {
+        "id":  "7efa0d42-a503-4938-8d03-570cf4e6eafa",
+        "commonName":  "Pickerel Frog",
+        "scientificName":  "Lithobates palustris",
+        "group":  "Leopard and Pickerel Frogs",
+        "inMap":  "pickerel-frog-in.html",
+        "usMap":  "lithobates-palustris-us.html"
+    },
+    {
+        "id":  "99eef041-0acd-4f19-8c28-b3bff8b3cd8c",
+        "commonName":  "Plains Leopard Frog",
+        "scientificName":  "Lithobates blairi",
+        "group":  "Leopard and Pickerel Frogs",
+        "inMap":  "plains-leopard-frog-in.html",
+        "usMap":  "lithobates-blairi-us.html"
+    },
+    {
+        "id":  "f95f318b-07bf-4a99-808c-46bfe1cd54e3",
+        "commonName":  "Southern Leopard Frog",
+        "scientificName":  "Lithobates sphenocephalus",
+        "group":  "Leopard and Pickerel Frogs",
+        "inMap":  "southern-leopard-frog-in.html",
+        "usMap":  "lithobates-sphenocephalus-us.html"
+    },
+    {
+        "id":  "e3431446-3578-4dbe-8e69-551e5d49ff47",
+        "commonName":  "Spring Peeper",
+        "scientificName":  "Pseudacris crucifer",
+        "group":  "Spring Peeper",
+        "inMap":  "spring-peeper-in.html",
+        "usMap":  "pseudacris-crucifer-us.html"
+    },
+    {
+        "id":  "e3b7387c-78c0-4aed-8878-90189e4fd17a",
+        "commonName":  "Wood Frog",
+        "scientificName":  "Lithobates sylvaticus",
+        "group":  "Woodland and Grassland Frogs",
+        "inMap":  "wood-frog-in.html",
+        "usMap":  "lithobates-sylvaticus-us.html"
+    }
+]
